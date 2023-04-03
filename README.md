@@ -43,13 +43,13 @@ security assessment tools. Feel free to submit PR with cool examples and such.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: ~~Basic syntax~~;\
+:heavy_check_mark: Basic syntax;\
 :heavy_check_mark: ~~Command line parser~~;\
 :heavy_check_mark: ~~HTTP requests~~;\
-:heavy_check_mark: ~~HTML parser~~;
-:heavy_check_mark: ~~File manipulation~~;
-:heavy_check_mark: ~~Win32 API~~;
-:heavy_check_mark: ~~DLL Injection~~;
+:heavy_check_mark: ~~HTML parser~~;\
+:heavy_check_mark: ~~File manipulation~~;\
+:heavy_check_mark: ~~Win32 API~~;\
+:heavy_check_mark: ~~DLL Injection~~;\
 :heavy_check_mark: ~~Persistence~~;
 
 ## :rocket: Technologies ##
