@@ -47,6 +47,7 @@ security assessment tools. Feel free to submit PR with cool examples and such.
 :heavy_check_mark: File manipulation;\
 :heavy_check_mark: Command line parser;\
 :heavy_check_mark: Error handling;\
+:heavy_check_mark: Testing code;\
 :heavy_check_mark: ~~HTTP requests~~;\
 :heavy_check_mark: ~~HTML parser~~;\
 :heavy_check_mark: ~~Win32 API~~;\

@@ -18,6 +18,9 @@ cargo build
 # run
 cargo run
 
+# test code
+cargo test
+
 # optional: build documentation of dependencies in use
 cargo doc --open
 ```
