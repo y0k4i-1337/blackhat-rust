@@ -73,13 +73,7 @@ $ git clone https://github.com/y0k4i-1337/blackhat-rust
 # Access
 $ cd blackhat-rust
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Get into each directory and run `cargo run`
 ```
 
 ## :memo: License ##
